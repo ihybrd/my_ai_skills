@@ -46,7 +46,11 @@ When creating notes, follow this structure. All notes must include these four re
 ---
 created: {{current_date}}
 source: claudian-ai
-tags: [ai, GenAi, generated-by-deepseek, claudian]
+tags: 
+- ai
+- GenAi
+- generated-by-deepseek
+- claudian
 ---
 
 # [Note Title]
