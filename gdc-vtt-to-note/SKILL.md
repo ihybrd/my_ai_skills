@@ -9,7 +9,7 @@ description: When the user provides a GDC VTT segment URL, run the bundled captu
 Use this skill when a user wants to turn a GDC talk caption stream into:
 1. A merged caption file.
 2. A short structured summary.
-3. An Obsidian note in `fleeting notes/from-claudian`.
+3. An Obsidian note in `literature notes/video notes/gdc/ai notes`.
 
 ## Trigger
 - User provides a GDC caption `.vtt` segment URL.
@@ -34,7 +34,7 @@ once the script successfully generates a caption file (captions.txt), do the fol
    - Topic
    - Key points
    - Actionable insights
-3. Create an Obsidian note in `fleeting notes/from-claudian`.
+3. Create an Obsidian note in `literature notes/video notes/gdc/ai notes`.
 
 ## Note Naming Rule
 - Filename format: `YYYY-MM-DD-{summary_slug}.md`

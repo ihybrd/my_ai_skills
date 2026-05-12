@@ -122,3 +122,5 @@ output/
 *.log
 *.tmp
 *.temp
+.gdc_cookies.txt
+captions.txt
